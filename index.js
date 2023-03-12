@@ -28,10 +28,14 @@ client.on("messageCreate", (message) => {
   mencoes.forEach(element => {
     if (message.content === element) {
 
-      message.reply({ content: `<:erykaola:1084223833298456746> Olá, ${message.author}. Utilize \`/ajuda\` para ver a minha lista de comandos. Caso queira ver as minhas informações utilize \`/info\`.` )}
+      message.reply({ content: `<:erykaola:1084223833298456746> Olá, ${message.author}. Utilize \`/ajuda\` para ver a minha lista de comandos. Caso queira ver as minhas informações utilize \`/info\`.`})
   }
+      
 
 })
+    
+    })
+    
 
 client.on('interactionCreate', async (interaction) => {
   if (interaction.isCommand()) {
@@ -92,5 +96,7 @@ client.on("messageCreate", (message) => {
 client.slashCommands = new Discord.Collection()
 
 require('./handler')(client)
+    
+       
 
 client.login(process.env.DISCORD_TOKEN);
