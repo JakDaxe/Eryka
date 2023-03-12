@@ -1,8 +1,8 @@
 <h1 align=center>Eryka</h1>
 <h3 align="center">
 
-![](https://komarev.com/ghpvc/?username=JakDaxe&label=Views&color=blue)
-[![discord](https://img.shields.io/badge/Join_Discord-5865F2.svg?&style=flat-square&logo=discord&logoColor=white&link=https://discord.gg)](https://discord.gg)
+![](https://komarev.com/ghpvc/?username=JakDaxe/Eryka&label=Views&color=blue)
+[![discord](https://img.shields.io/badge/Discord-5865F2.svg?&style=flat-square&logo=discord&logoColor=white&link=https://discord.gg)](https://discord.gg)
 </h3>
 
 ## Ferramentas
