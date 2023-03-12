@@ -18,8 +18,8 @@
 
 - Sempre use uma branch da última versão lançada.
   - Sempre dê um nome ao seu pull request para melhor organização.
-	- Utilize um changelog detalhado e usando emojis para melhor organização e compreensão do que foi feito.
-	- TODOS os pull requests devem ser testados primeiro.
+  - Utilize um changelog detalhado e usando emojis para melhor organização e compreensão do que foi feito.
+  - TODOS os pull requests devem ser testados primeiro.
 
 ## Documentação :
 
