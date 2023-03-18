@@ -23,12 +23,12 @@
 
 ## Documentação :
 
-- Aqui está a documentação da framework utilizada : [Discord.js](https://discord.js.org/#/docs/discord.js/main/general/welcome)
+- Aqui está a documentação da biblioteca utilizada: [Discord.js](https://discord.js.org/#/docs/discord.js/main/general/welcome)
 
 ## Planeamento :
   - [✔️] Comandos de utilidade
   - [ ] Comandos de diversão
   - [ ] Comandos de moderação
-  - [ ] Comandos de economia
+  - [✔️] Comandos de economia
   - [ ] Comandos de interação
   - [ ] Comandos de música
