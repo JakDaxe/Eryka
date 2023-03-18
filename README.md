@@ -27,8 +27,8 @@
 
 ## Planeamento :
   - [✔️] Comandos de utilidade
-  - [ ] Comandos de diversão
-  - [ ] Comandos de moderação
+  - [  ] Comandos de diversão
+  - [  ] Comandos de moderação
   - [✔️] Comandos de economia
-  - [ ] Comandos de interação
-  - [ ] Comandos de música
+  - [  ] Comandos de interação
+  - [  ] Comandos de música
