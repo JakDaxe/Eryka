@@ -21,7 +21,7 @@ module.exports = {
       let personalBal = eco.fetchMoney(user.id);
       
       
-     interaction.reply(`${user.id == interaction.user.id ? `Você possui` : `${user} possui`} <:gemas:1084113140805029910> **${abreviar(personalBal.amount)} Gemas.**\n :trophy: É o **#${personalBal.position} mais rico!**.Veja o ranking dos mais ricos em \`/rank\`.`)
+     interaction.reply(`${user.id == interaction.user.id ? `Você possui <:gemas:1084113140805029910> **${abreviar(personalBal.amount)} Gemas.**\n :trophy: Você está na posição **#${personalBal.position} do ranking dos mais ricos!**.Veja outros ricos em \`/rank\`.` : `${user} possui <:gemas:1084113140805029910> **${abreviar(personalBal.amount)} Gemas.**\n :trophy: Está na posição **#${personalBal.position} dos mais ricos!**.Veja outros ricos em \`/rank\`.`}`)
 
     
  }
